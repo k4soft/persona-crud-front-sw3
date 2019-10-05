@@ -6,4 +6,3 @@ export class Persona {
 }
 
 
-//https://private-dc6e2a-automoviles.apiary-mock.com/personas
